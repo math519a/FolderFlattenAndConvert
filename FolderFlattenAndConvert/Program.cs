@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Net.Mime;
+using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.Advanced;
 using SixLabors.ImageSharp.Formats.Webp;
 
